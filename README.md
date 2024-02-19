@@ -1,3 +1,34 @@
+#TO-DO APP
+
+This is a simple Todo List application built with React. It allows users to add, delete, mark as completed, and mark as important tasks. Additionally, users can filter tasks based on their completion status (All, Completed, Active) and clear all completed tasks at once.
+
+#Features
+Add new tasks with a title and description
+Mark tasks as completed or active
+Mark tasks as important
+Delete tasks
+Filter tasks by completion status
+Clear all completed tasks
+
+#Prerequisites
+Before running this application, make sure you have the following installed:
+
+Node.js (v14 or later)
+npm (v7 or later) or Yarn (v1.22 or later)
+
+#Usage
+To add a new task, enter the title and description in the input fields and click the "+" button.
+To mark a task as completed or active, click on the checkbox next to the task title.
+To mark a task as important, click on the exclamation triangle icon next to the task title.
+To delete a task, click on the trash icon next to the task title.
+Use the filter buttons to filter tasks based on their completion status.
+Use the "Clear Completed" button to remove all completed tasks from the list.
+
+#Local Storage
+This application utilizes local storage to persist the state of tasks. Tasks' completion status and importance status are stored in local storage and restored when the application loads.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
