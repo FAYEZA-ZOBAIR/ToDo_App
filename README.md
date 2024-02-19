@@ -2,6 +2,9 @@
 
 This is a simple Todo List application built with React. It allows users to add, delete, mark as completed, and mark as important tasks. Additionally, users can filter tasks based on their completion status (All, Completed, Active) and clear all completed tasks at once.
 
+Deployed Site: https://to-do-list-fayeza.netlify.app/
+
+
 #Features
 Add new tasks with a title and description
 Mark tasks as completed or active
